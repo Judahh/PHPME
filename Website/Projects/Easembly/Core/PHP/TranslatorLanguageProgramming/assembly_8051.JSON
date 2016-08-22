@@ -1,0 +1,1368 @@
+{
+  "command": [
+    {
+      "name": "copyToFirstWithFirstWithSecond",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r0",
+                  "isLink": true,
+                  "isAddress":true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rB",
+                  "isLink": true
+                },
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r0",
+                  "isLink": true,
+                  "isAddress":true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r1",
+                  "isLink": true,
+                  "isAddress":true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r0",
+                  "isLink": true,
+                  "isAddress":true
+                },
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r1",
+                  "isLink": true,
+                  "isAddress":true
+                },
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r0",
+                  "isLink": true,
+                  "isAddress":true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r1",
+                  "isLink": true,
+                  "isAddress":true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r0",
+                  "isLink": true
+                },
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r1",
+                  "isLink": true
+                },
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 1,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 1,
+              "operand": [
+                {
+                  "link": "rB",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 1,
+              "operand": [
+                {
+                  "link": "r0",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 1,
+              "operand": [
+                {
+                  "link": "r1",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 1,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 1,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 1,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "mov",
+              "complexType": 1,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sumToFirstWithFirstWithSecond",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "add",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "add",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "add",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "add",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sumToFirstWithFirstWithSecondPlusCarry",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "addc",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "addc",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "addc",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "addc",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "subToFirstWithFirstWithSecond",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "subb",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "subb",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "subb",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "subb",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jumpTo",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "ljmp",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "jumpIfCarryIsSetTo",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "jc",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "decrementRBIfRBIsNotEqualToZeroJumpTo",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "djnz \tB,",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "compareRAWithFirstIfNotEqualJumpToSecond",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "cjne \tA,",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "return",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 0,
+          "command": [
+            {
+              "mnemonic": "ret",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "lcall",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "andToFirstWithFirstWithSecond",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "anl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "anl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "anl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "anl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "anl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "anl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "orToFirstWithFirstWithSecond",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "orl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "orl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "orl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "orl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "orl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 2,
+          "command": [
+            {
+              "mnemonic": "orl",
+              "complexType": 0,
+              "operand": [
+                {
+                  "isLink": false
+                },
+                {
+                  "isLink": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "push",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "push",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "push",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "push",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "push",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pop",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "pop",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "pop",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rB",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "pop",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r0",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "pop",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "r1",
+                  "isLink": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 0,
+          "command": []
+        }
+      ]
+    },
+    {
+      "name": "setBit",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "setb",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true,
+                  "isBit":true
+                }
+              ]
+            },
+            {
+              "mnemonic": "setb",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rB",
+                  "isLink": true,
+                  "isBit":true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "clearBit",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 1,
+          "command": [
+            {
+              "mnemonic": "clr",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rA",
+                  "isLink": true,
+                  "isBit":true
+                }
+              ]
+            },
+            {
+              "mnemonic": "clr",
+              "complexType": 0,
+              "operand": [
+                {
+                  "link": "rB",
+                  "isLink": true,
+                  "isBit":true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wait4Cycles",
+      "complex": true,
+      "variation": [
+        {
+          "numberOfOperands": 0,
+          "command": [
+            {
+              "mnemonic": "nop",
+              "complexType": 0,
+              "operand": []
+            },
+            {
+              "mnemonic": "nop",
+              "complexType": 0,
+              "operand": []
+            },
+            {
+              "mnemonic": "nop",
+              "complexType": 0,
+              "operand": []
+            },
+            {
+              "mnemonic": "nop",
+              "complexType": 0,
+              "operand": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rotateRALeftWithCarry",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 0,
+          "command": [
+            {
+              "mnemonic": "rlc \tA",
+              "complexType": 0,
+              "operand": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rotateRALeft",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 0,
+          "command": [
+            {
+              "mnemonic": "rl \tA",
+              "complexType": 0,
+              "operand": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rotateRARightWithCarry",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 0,
+          "command": [
+            {
+              "mnemonic": "rrc \tA",
+              "complexType": 0,
+              "operand": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rotateRARight",
+      "complex": false,
+      "variation": [
+        {
+          "numberOfOperands": 0,
+          "command": [
+            {
+              "mnemonic": "rr \tA",
+              "complexType": 0,
+              "operand": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "operand": [
+    {
+      "Easembly": "rA",
+      "Assembly": "A"
+    },
+    {
+      "Easembly": "rB",
+      "Assembly": "B"
+    },
+    {
+      "Easembly": "r0",
+      "Assembly": "R0"
+    },
+    {
+      "Easembly": "r1",
+      "Assembly": "R1"
+    },
+    {
+      "Easembly": "stackPointer",
+      "Assembly": "SP"
+    },
+    {
+      "Easembly": "flags",
+      "Assembly": "PSW"
+    },
+    {
+      "Easembly": "programCounter",
+      "Assembly": "PC"
+    }
+  ],
+  "pointer": {
+    "register": {
+      "before": "@"
+    },
+    "other": {
+
+    }
+  },
+  "regular": {
+    "register": {
+
+    },
+    "other": {
+      "before": "#"
+    }
+  },
+  "number": {
+    "binary": {
+      "before": "0b"
+    },
+    "decimal": {
+      "before": ""
+    },
+    "hexadecimal": {
+      "before": "0x"
+    }
+  },
+  "bit": {
+    "first": false,
+    "separator": "."
+  }
+}
